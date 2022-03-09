@@ -1,2 +1,2 @@
-https://tutuncucj.github.io/KitchenMenu.js/
+https://tutuncucj.github.io/kitchenMenuClone.js/
 <img src="gif.gif">;
